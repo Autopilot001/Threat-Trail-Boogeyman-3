@@ -1,0 +1,16 @@
+# Threat Trail: Boogeyman 3
+
+My incident response walkthrough for the TryHackMe room **Boogeyman 3**. The room follows a phishing incident at Quick Logistics and uses Elastic to investigate endpoint and network telemetry.
+
+## Walkthrough
+
+The full first-person investigation, with screenshots beside the corresponding steps, is in [docs/WRITEUP.md](docs/WRITEUP.md).
+
+## Focus
+
+- Review a reported phishing email and its mounted ISO attachment.
+- Use an Elastic time window and KQL searches to find related endpoint events.
+- Trace suspicious process activity from the attachment through PowerShell and credential-access tooling.
+- Review network and ransomware-related events.
+
+This repository contains documentation and sanitized screenshots only. IP addresses and contact details are covered. I also obscured encoded malware content and credential-dumping arguments in the affected evidence; investigation searches and useful process context remain visible.
