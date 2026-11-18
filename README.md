@@ -4,7 +4,7 @@ My incident response walkthrough for the TryHackMe room **Boogeyman 3**. The roo
 
 ## Walkthrough
 
-The full first-person investigation, with screenshots beside the corresponding steps, is in [docs/WRITEUP.md](docs/WRITEUP.md).
+The full first-person investigation, with screenshots beside the corresponding steps, is in [WRITEUP.md](WRITEUP.md).
 
 ## Focus
 
