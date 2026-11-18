@@ -8,9 +8,6 @@ The full first-person investigation, with screenshots beside the corresponding s
 
 ## Focus
 
-- Review a reported phishing email and its mounted ISO attachment.
-- Use an Elastic time window and KQL searches to find related endpoint events.
-- Trace suspicious process activity from the attachment through PowerShell and credential-access tooling.
-- Review network and ransomware-related events.
+Review the phishing report and attachment, then use Elastic to trace activity through execution, persistence, credential access, and ransomware.
 
 This repository contains documentation and sanitized screenshots only. IP addresses and contact details are covered. I also obscured encoded malware content and credential-dumping arguments in the affected evidence; investigation searches and useful process context remain visible.
