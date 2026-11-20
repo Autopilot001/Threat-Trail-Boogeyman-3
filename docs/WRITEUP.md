@@ -26,14 +26,14 @@ The incident began with an urgent financial-document email sent to the CEO. The 
 In the Downloads evidence, I found the ISO named `ProjectFinancialSummary_Q3.pdf`. After mounting it, I saw a file with the same name whose actual type was **HTML Application**. That mismatch made the attachment suspicious and gave me a filename and file type to search for in Elastic.
 
 <details>
-<summary>Screenshot: Step 2  Downloaded ISO and mounted file type</summary>
+<summary>Screenshot: Step 2 - Downloaded ISO and mounted file type</summary>
 
 <img src="../screenshots/step-02.png" alt="Step 2 — Downloaded ISO and mounted file type" width="760">
 
 </details>
 
 <details>
-<summary>Screenshot: Step 3  Second capture of the attachment evidence</summary>
+<summary>Screenshot: Step 3 - Second capture of the attachment evidence</summary>
 
 <img src="../screenshots/step-03.png" alt="Step 3 — Second capture of the attachment evidence" width="760">
 
