@@ -6,7 +6,7 @@
 
 ## Scope
 
-I reviewed the evidence from the assigned TryHackMe room and followed the incident through the supplied Elastic screenshots. The screenshots show a phishing attachment, suspicious Windows process activity, network telemetry, credential access activity, and a ransomware process. I kept the investigation searches and useful process context visible. Public copies obscure IP addresses and contact details, along with encoded malware content and credential dumping arguments.
+ The screenshots show a phishing attachment, suspicious Windows process activity, network telemetry, credential access activity, and a ransomware process. I kept the investigation searches and useful process context visible. Public copies obscure IP addresses and contact details, along with encoded malware content and credential dumping arguments.
 
 ## Investigation
 
