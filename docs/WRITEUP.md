@@ -74,7 +74,7 @@ Elastic recorded an HTTP connection from the affected host to an external addres
 
 <img src="../screenshots/step-13.png" alt="Step 13 — HTTP connection event; IP addresses obscured" width="760">
 
-Another process record shows hidden PowerShell launched in the context of `fodhelper.exe`. I treated the parent process, hidden window flags, and encoded-command pattern as suspicious. The obfuscated command body is covered in the public copy.
+Another process record shows hidden PowerShell launched in the context of `fodhelper.exe`. I treated the parent process, hidden window flags, and encoded command pattern as suspicious. The obfuscated command body is covered in the public copy.
 
 <img src="../screenshots/step-14.png" alt="Step 14 — PowerShell process and fodhelper parent" width="760">
 
