@@ -1,7 +1,7 @@
 # Threat Trail: Boogeyman 3
 
 **Author:** Mohamed Nabil Algamoudi  
-**Original room title:** Boogeyman 3  TryHackMe  
+**Original room title:** Boogeyman 3   
 **Focus:** Phishing investigation and Windows endpoint triage in Elastic
 
 ## Scope
@@ -114,5 +114,5 @@ The final supplied event records creation of `ransomboogey.exe` on the domain co
 
 ## Reflection
 
-This investigation reinforced how useful a clear time window and process lineage are during incident response. I connected the attachment to HTML handling, file staging, DLL loading, persistence, credential-access activity, and the ransomware process by following the events through Elastic. In a real environment, I would isolate affected systems, preserve logs and artifacts, block the observed infrastructure, reset exposed credentials, and verify recovery from clean backups.
+This investigation reinforced how useful a clear time window and process lineage are during incident response. I connected the attachment to HTML handling file staging  DLL loading  persistence credential access activity, and the ransomware process by following the events through Elastic. In a real environment  I would isolate affected systems preserve logs and artifacts, block the observed infrastructure reset exposed credentials, and verify recovery from clean backups.
 
