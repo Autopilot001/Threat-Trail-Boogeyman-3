@@ -1,6 +1,6 @@
 # Threat Trail: Boogeyman 3
 
-My incident response walkthrough for the TryHackMe room **Boogeyman 3**. The room follows a phishing incident at Quick Logistics and uses Elastic to investigate endpoint and network telemetry.
+My incident response Lab Instance **Boogeyman 3**. The room follows a phishing incident at Quick Logistics and uses Elastic to investigate endpoint and network telemetry.
 
 ## Walkthrough
 
